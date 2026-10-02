@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "89510eb6aa3ebee01a852fdf",
+  "owner": "an6dhm",
+  "repo": "page-1fc93ae6d2d01f7b0077728c",
+  "title": "云游加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1fc93ae6d2d01f7b0077728c",
+      "a": "云游加速",
+      "b": "",
+      "entity": "云游加速",
+      "brand": "云游加速",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b27be548dfd54b62a602755f1896bd1ebf6ca425ab05dbb8095609fbf4e907a3",
+      "content": {
+        "keyword1": "云游加速",
+        "keyword2": "",
+        "primary_entity": "云游加速",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "云游加速是提供机场订阅与VPN客户端下载的官方网站，面向跨境办公、流媒体与游戏加速，说明套餐、节点与配置流程。",
+          "AI_DESCRIPTION": "云游加速是提供机场订阅与VPN客户端下载的官方网站，面向跨境办公、流媒体与游戏加速，说明套餐、节点与配置流程。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;width:100%;overflow-x:hidden}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Noto Sans SC','Microsoft YaHei',sans-serif;background:#f3f2f7;color:#1c1a24;font-size:16px;line-height:1.75}*{box-sizing:border-box}a{color:#5b21b6;text-decoration:none}a:hover{text-decoration:underline}img,svg{display:none}header{background:#ede9fe;border-bottom:1px solid #ddd6fe}header .wrap,footer .wrap,main .wrap{max-width:1080px;margin:0 auto;padding:16px}nav{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center}nav .brand{font-weight:700;color:#4c1d95;margin-right:8px}nav a{color:#5b21b6}h1{font-size:1.7rem;line-height:1.35;color:#4c1d95;margin:8px 0 12px}h2{font-size:1.35rem;color:#5b21b6;margin:0 0 12px}h3{font-size:1.12rem;color:#4c1d95;margin:0 0 8px}p{margin:0 0 10px}ul,ol{margin:0 0 10px 1.2em;padding:0}.sec{padding:8px 0 28px}.row{display:flex;flex-wrap:wrap;gap:16px;align-items:stretch}.row.rev{flex-direction:row-reverse}.card{flex:1 1 280px;background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:18px 16px;min-width:0}.muted{color:#4b5563}.plan{flex:1 1 240px}.plan.hot{border:2px solid #7c3aed;background:#f5f3ff}.price{font-size:1.4rem;font-weight:700;color:#6d28d9;margin:6px 0}.tag{display:inline-block;background:#7c3aed;color:#fff;border-radius:999px;padding:2px 10px;font-size:12px;margin-left:6px}.steps{counter-reset:step}.step{flex:1 1 280px;background:#fff;border-left:4px solid #7c3aed;border-radius:10px;padding:16px}.step h3::before{counter-increment:step;content:counter(step) '. ';color:#7c3aed}details{background:#fff;border:1px solid #ddd6fe;border-radius:10px;padding:10px 14px;margin:0 0 8px}summary{font-weight:600;color:#5b21b6}details p{margin:8px 0 0;color:#374151}.cta{display:inline-block;background:#6d28d9;color:#fff;padding:10px 16px;border-radius:8px;margin:6px 8px 0 0}.cta:hover{text-decoration:none}.note{background:#ede9fe;border-radius:10px;padding:12px 14px}.list a{display:inline-block;margin:0 12px 6px 0}footer{background:#2e1065;color:#e9e5f5;font-size:14px}footer a{color:#ddd6fe}footer h2,footer h3{color:#f5f3ff}.ad{background:#4c1d95;border-radius:8px;padding:12px;margin:0 0 14px}.copy{margin-top:12px;color:#c4b5fd}@media (max-width:640px){h1{font-size:1.45rem}nav{font-size:14px}.row.rev{flex-direction:column}}</style><header><div class=\"wrap\"><nav><span class=\"brand\">云游加速</span><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main><div class=\"wrap\"><h1>云游加速官方网站：机场订阅、VPN 与客户端下载</h1><section class=\"sec\" id=\"intro\"><h2>品牌简介</h2><div class=\"row\"><div class=\"card\"><p>云游加速是面向跨境访问、远程协作与娱乐加速的官方网站服务品牌，同时提供云游加速机场订阅与云游加速 VPN 客户端下载入口。页面说明套餐配额、设备数量、线路类型与导入步骤，便于一次性完成订阅与客户端配置。</p><p>服务定位是稳定的网络加速器，而不是临时分享节点。订阅以月度流量与同时在线设备数为计量，线路覆盖常用亚太与欧美接入点，旗舰与团队方案包含 IPLC 专线游戏优化与更高优先级支持。</p><p>如需进入官方下载与套餐对照，请使用本页锚点前往配置流程与客户端说明，避免来路不明的安装包。</p></div><div class=\"card\"><h3>官方身份与服务边界</h3><ul><li>品牌名称：云游加速（官网 / 官方网站）</li><li>服务形态：机场订阅 + 多端加速器客户端</li><li>计量方式：月流量、同时在线设备、线路等级</li><li>支持系统：Windows、macOS、Android、iOS 及常见 Clash 兼容内核</li><li>不承诺突破任何特定站点的可用性，以实际节点列表为准</li></ul><p class=\"muted\">本站为云游加速信息与下载说明页，订阅状态以账户后台为准。</p></div></div></section><section class=\"sec\" id=\"scenes\"><h2>使用场景</h2><div class=\"row rev\"><div class=\"card\"><h3>跨境办公与资料同步</h3><p>远程会议、代码仓库、设计协作与网盘同步对延迟与丢包敏感。云游加速 VPN 可把办公设备接入更干净的出口，减少跨国链路抖动。团队版支持更多终端与定制路由，适合把办公网段与娱乐流量分开。</p></div><div class=\"card\"><h3>流媒体、学术检索与游戏加速</h3><p>基础版覆盖常用影视站点的基础解锁；旗舰版强调全节点原生流媒体与 IPLC 专线游戏加速。学术数据库、文献下载与公开云控制台也可作为常规加速场景。具体片源与区服以当时节点公告为准。</p></div></div></section><section class=\"sec\" id=\"plans\"><h2>机场订阅套餐</h2><p class=\"muted\">价格为官方标价，年付按十二个月折扣计算。流量为每月额度，周期结束按套餐规则重置。以下为固定方案，不含临时加价节点。</p><div class=\"row\"><article class=\"card plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p>按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a class=\"cta\" href=\"#download\">前往客户端下载</a></p></article><article class=\"card plan hot\"><h3>旗舰版<span class=\"tag\">推荐</span></h3><p class=\"price\">¥35/月</p><p>按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a class=\"cta\" href=\"#guide\">按配置流程接入</a></p></article><article class=\"card plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p>按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a class=\"cta\" href=\"#faq\">查看额度说明</a></p></article></div></section><section class=\"sec\" id=\"guide\"><h2>配置流程（重点）</h2><p>云游加速把订阅导入与客户端选择拆成固定步骤，按顺序完成即可上线。不要跳过系统代理开关检查，也不要同时开启多个内核，以免端口冲突。</p><div class=\"row steps\"><div class=\"step\"><h3>注册并选择套餐</h3><p>在官方网站完成账户验证后，选择基础版、旗舰版或团队版。确认月流量、设备数与是否需要 IPLC。支付成功后，后台会生成一条机场订阅链接，仅用于受支持的客户端导入。</p></div><div class=\"step\"><h3>下载对应客户端</h3><p>Windows 与 macOS 使用桌面加速器或 Clash 兼容客户端；Android 使用移动端内核；iOS 使用系统允许的配置描述或兼容应用。只从本页官方下载区域进入，避免第三方改包。</p></div></div><div class=\"row rev steps\"><div class=\"step\"><h3>导入订阅并更新节点</h3><p>将后台复制的订阅地址粘贴到客户端的订阅栏，执行一次更新。成功后可见香港、东京、新加坡、洛杉矶等分组。旗舰版与团队版会额外显示 IPLC 与 VIP 分组。若列表为空，检查剪贴板是否含完整 https 链接。</p></div><div class=\"step\"><h3>选择规则并连通</h3><p>推荐规则模式：国内直连、跨境走代理。浏览器与游戏可分别绑定系统代理或 TUN。连通后访问本页底部检测说明，观察延迟与出口地区。更换节点后等待数秒再测，避免缓存干扰。</p></div></div><div class=\"note\"><h3>配置核对清单</h3><ol><li>订阅已更新且节点数量不为零</li><li>系统时间准确，避免证书校验失败</li><li>仅运行一个代理内核，端口未被占用</li><li>流媒体请选用标注解锁的节点</li><li>游戏请优先 IPLC 或低丢包专线</li></ol></div></section><section class=\"sec\" id=\"download\"><h2>客户端下载与线路说明</h2><div class=\"row\"><div class=\"card\"><h3>官方下载入口</h3><p>以下为云游加速官网提供的客户端通道，链接指向本页对应说明，安装包以账户后台当时版本为准。</p><p class=\"list\"><a href=\"#guide\">Windows 桌面加速器</a><a href=\"#guide\">macOS 客户端</a><a href=\"#guide\">Android 应用</a><a href=\"#guide\">iOS 配置说明</a><a href=\"#guide\">Clash 兼容内核</a></p><p class=\"muted\">官方下载不附带浏览器插件捆绑。安装完成后回到配置流程导入订阅即可。</p></div><div class=\"card\"><h3>节点与性能口径</h3><p>普通线路适合网页、邮件与轻度视频；IPLC 面向对延迟敏感的对战与远程桌面。云游加速机场在高峰时段仍可能出现拥塞，旗舰与团队用户进入独立队列。我们不以虚构评分宣传，实际速度以你所在运营商到入口的质量为准。</p><p>建议：晚间娱乐走流媒体分组，工作日白天把办公域名放入代理列表，其余直连，节省月度流量。</p></div></div></section><section class=\"sec\" id=\"faq\"><h2>常见问题</h2><details><summary>云游加速是机场还是 VPN？两者如何配合？</summary><p>云游加速同时提供机场订阅与 VPN/加速器客户端。机场订阅负责节点列表与流量计量，客户端负责在设备上建立代理。没有订阅的客户端无法获取节点；只复制节点而不安装客户端也无法在系统里生效。</p></details><details><summary>如何完成第一次客户端下载与导入？</summary><p>先在官网选定套餐并打开后台订阅地址，再从本页客户端下载区域安装对应系统版本，最后在软件中粘贴订阅并更新。详细顺序见配置流程四步，出错时优先检查链接是否完整、系统时间是否正确。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>个人轻度使用选基础版（100GB / 3 设备）。需要原生流媒体、游戏 IPLC 与优先工单选旗舰版（300GB / 5 设备）。工作室或家庭多终端选团队版（1000GB / 20 设备）并可申请定制路由。年付按标价十二个月折扣执行。</p></details><details><summary>同时在线设备超限会怎样？</summary><p>超过套餐设备数后，新终端无法完成握手，已在线会话可能被挤下线。请在后台解绑闲置设备，或升级到更高方案。同一账号不要把订阅填进来源不明的第三方面板，以免占用名额。</p></details><details><summary>流媒体显示未解锁或游戏丢包怎么办？</summary><p>改用套餐允许的解锁分组或 IPLC 节点，关闭多重代理与浏览器自带 VPN。若仅个别剧集失败，属于版权线路策略变化，可换同区其他节点。持续丢包时提交工单并附节点名称与测试时间，旗舰与团队享有更高优先级。</p></details><details><summary>流量如何计算，年付是否共用额度？</summary><p>流量按套餐月度额度统计上下行，周期结束按规则重置，年付是付款周期优惠，不把十二个月流量合并成一个大包。直播推流、云盘备份会快速消耗额度，建议对这些应用单独分流。</p></details><details><summary>是否提供退款或更换官方下载渠道？</summary><p>因节点体验存在地区差异，是否退款以购买时展示的条款为准。客户端只通过云游加速官方网站与本页锚点引导获取，不要使用网盘分流或论坛改包。更换设备时重新导入同一订阅即可，无需重复购买。</p></details></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer id=\"sitemap\"><div class=\"wrap\"><div class=\"ad\"><h2>广告与合作</h2><p>云游加速接受与跨境协作工具、云存储及合规企业网络方案的文字合作展示。广告为信息位，不代表对第三方服务可用性的保证。商务请通过官方网站账户工单联系，请勿在非官方渠道交付订阅链接。</p></div><h3>网站地图</h3><p class=\"list\"><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">机场订阅套餐</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#\">XML Sitemap</a></p><h3>友情链接</h3><p class=\"list\"><a href=\"#\">云游加速官网</a><a href=\"#\">官方下载</a><a href=\"#\">机场订阅说明</a><a href=\"#\">加速器使用手册</a><a href=\"#\">节点状态公告</a></p><p class=\"copy\">© 云游加速 官方网站 · 保留对套餐与客户端版本的调整权 · canonical https://www.yunyoujiasu.com/</p></div></footer>",
+          "hash": "8b5f7a375e754d9749323d5e872c31e082ea004783680233725c34a5707fae76",
+          "seo": {
+            "title": "云游加速官网 - VPN梯子网络加速与机场订阅客户端下载",
+            "keywords": "云游加速,云游加速官网,云游加速VPN,云游加速机场,机场订阅,加速器,客户端下载,梯子网络加速,官方下载",
+            "description": "云游加速是提供机场订阅与VPN客户端下载的官方网站，面向跨境办公、流媒体与游戏加速，说明套餐、节点与配置流程。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "3dt7dp.cn",
+    "host": "p-7e91c565b0.3dt7dp.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "3dt7dp.cn",
+      "url": "https://3dt7dp.cn/",
+      "label": "渡口(Dukou)",
+      "apex": "3dt7dp.cn",
+      "kind": null,
+      "identity": "bnkbyvcv/page-0235c755ef6f3541535c79d6"
+    },
+    {
+      "host": "emyjkd.cn",
+      "url": "https://emyjkd.cn/",
+      "label": "云游加速",
+      "apex": "emyjkd.cn",
+      "kind": null,
+      "identity": "wangbadani1/page-47573e6d255115a3313b193b"
+    },
+    {
+      "host": "entropycode.cn",
+      "url": "https://entropycode.cn/",
+      "label": "云游加速",
+      "apex": "entropycode.cn",
+      "kind": null,
+      "identity": "wangbadan9/page-5d94bceb2837815a66fdce88"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "54c0568842866e88c023dcf76983d0eb665d9600c2603ce1f86aed5cadb9848b",
+    "sitemap.xml": "113cb35db3e66bad68a2577eac2ec2f651dfd92c2a8ea0c47d7c77970029715e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ccd72fcedaa6afabde44fee21d607669341f9e7d142041bf2cee1af6635ae458",
+    "robots.txt": "7710b54cbe90e2dd38bd2cd7d2d11ff9f2ae6a75ead5e46bd55edde326905bce",
+    "a858e6af82eac0f221ceab2d11d559d7.txt": "da7f9cfa685d8e7eb348629501cc8fd8433e5a25656f93be010933c190f7e3c2"
+  },
+  "revision": "848394182c983850dc5cd8c06935870d080b3877f3b65e34a484cc374cecfeed"
+}
